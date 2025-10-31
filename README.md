@@ -32,3 +32,6 @@ ___________________________________________________|
 
 # Frontend
 
+- Create a React component (or plain JavaScript app) that displays a button.
+- When the user clicks the button, a counter starts looping (incrementing every second).
+- When the button is clicked again, the counter stops.
